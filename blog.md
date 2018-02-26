@@ -11,7 +11,7 @@ Maecenas in dui turpis. Nullam tempus tincidunt felis. Proin nibh nunc, sagittis
 
 [3d viz](d3/index.html)
 
-<iframe style="width: 1024px; height:786 px; src="http://nc13wp.github.io/IASC-2P02/d3/index.html"></iframe?
+<iframe style="width: 1024px; height:786 px; src="http://nc13wp.github.io/IASC-2P02/d3/index.html"></iframe>
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec vel velit id leo lobortis tincidunt sed ut elit. Donec lorem arcu, dapibus vel pretium quis, auctor at diam. Quisque mattis ullamcorper sapien, quis tincidunt magna consequat quis. Duis congue dui sed rutrum imperdiet. Duis quam justo, feugiat vel ipsum sed, porttitor pharetra nunc. Sed rutrum rhoncus consectetur. Aliquam tempus feugiat nibh, nec porta erat elementum et. Donec a libero varius, euismod erat sed, suscipit velit. Mauris sit amet sem lacus. Nunc iaculis tellus lacinia arcu ornare, eget faucibus elit pharetra.
 
