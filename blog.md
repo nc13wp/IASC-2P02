@@ -23,3 +23,17 @@ If it is established that interpretive graphics are useful, but not in the way t
 Although they refer to the use of text alongside text modelling practices, the same logic can be applied to its use with graphic representations of data. Drucker’s one graphic that exemplifies this is shown in figure 6 of her article, describing the activities in a day and how they create the form of a day. It appears to have the most immediately obvious meaning of all her graphics, and can support multiple conclusions – due to the way in which it displays text visually and integrates it into the graphic.
   
 While Drucker raises relevant points about the need of interpretive data representations in the digital humanities, most examples she uses are insufficient due to a lack of clarity, which can confuse their interpretation. For graphical displays in the digital humanities to truly find their place, further development and iteration is still needed.  
+
+
+
+References 
+
+Drucker, J. (2011). Humanities Approaches to Graphical Display. Digital Humanities Quarterly, 5(1)
+
+Ciula, A., & Marras, C. (2016). Circling around texts and language: towards “pragmatic modelling” in Digital Humanities. Digital Humanities Quarterly, 10(3).
+
+Ramsay, S. (2011). Reading Machines: Toward an Algorithmic Criticism. Champaign, IL: University of Illinois Press.
+
+Alvarado, R. (2012). The Digital Humanities Situation. Debates in the Digital Humanities, Minneapolis, MN: University of Minnesota Press.
+
+
