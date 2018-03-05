@@ -2,11 +2,10 @@
 
 ## About me
 
-My bio goes here
+A third year Interactive Arts and Science student primarily focused on studying the production of games and their place in modern society. Eternally fascinated by the world of esports.
 
-![](images/dignitas.jpg)
 
 ## Blog Post
 
-First sentence of blog post goes here... [continue reading](blog)
+test[continue reading](blog)
 
