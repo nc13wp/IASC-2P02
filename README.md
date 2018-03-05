@@ -7,5 +7,5 @@ A third year Interactive Arts and Science student primarily focused on studying 
 
 ## Blog Post
 
-Graphical Displays in the Digital Humanities: Clarity vs Interpretation [continue reading](blog)
+Graphical Displays in the Digital Humanities: Clarity vs Interpretation [continue reading](blog.md)
 
