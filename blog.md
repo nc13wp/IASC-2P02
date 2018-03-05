@@ -24,8 +24,7 @@ Although they refer to the use of text alongside text modelling practices, the s
   
 While Drucker raises relevant points about the need of interpretive data representations in the digital humanities, most examples she uses are insufficient due to a lack of clarity, which can confuse their interpretation. For graphical displays in the digital humanities to truly find their place, further development and iteration is still needed.  
 
-
-
+<br><br>
 References 
 
 Drucker, J. (2011). Humanities Approaches to Graphical Display. Digital Humanities Quarterly, 5(1)
