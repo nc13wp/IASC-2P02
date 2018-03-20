@@ -11,4 +11,4 @@ Graphical Displays in the Digital Humanities: Clarity vs Interpretation [continu
 
 ## Solo Presentation
 
-Media Archeology: Xybernaut Wearable Computers [continue reading](index)
+Media Archeology: Xybernaut Wearable Computers [continue reading](reveal)
