@@ -18,6 +18,10 @@ Media Archeology: Xybernaut Wearable Computers | [read](reveal)
 
 Graphical Displays in the Digital Humanities: Clarity vs Interpretation | [read](blog)
 
+## Research Presentation | Media Archeology: Xybernaut Wearable Computers
+
+[read](reveal)
+
 
 ## Collaborative Project | PRISM
 
