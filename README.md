@@ -8,7 +8,7 @@ I am a third year Interactive Arts and Science student primarily focused on Medi
 
 ![](images/featuredimage.jpg)
 
-250 word abstract goes here
+As new media artifacts develop, the need for a closer examination of past media rises. Through a thorough examination of technology that failed, we can determine the factors that contribute to success, and use these factors to make the technology of the future. From virtual reality headsets to smartwatches, wearable computers are in a constant spotlight in the modern technological landscape; so why have they yet to achieve widespread commercial appeal? By examining the first wearable computers, the Xybernaut MA-V and POMA, we can better answer this question. This research presentation will outline how these first attempts at mobile computing worked, and the context of the time in which they were introduced. Once this is done, the various social, cultural, and financial factors which contributed to its failure will be explored, with possible solutions being provided and analyzed. Many of these failures and solutions are also evident in more modern examples of wearable technology, such as the Google Glass, which will also be discussed. This presentation will then outline the timeline that led to the current form of wearables, as well as adjacent timelines of what could have happened with minor changes in history. On a more theoretical level, the evolution of wearables is discussed through the way in which media content influences technology, and the seemingly cyclical nature of wearable technologies through the last 50 years. Through this analysis, predictions are then made about what wearables could look like in the future, and what functions they will provide. 
 
 250 words describing the changes made
 
