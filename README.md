@@ -25,7 +25,11 @@ Collaborative research, specifically in an emerging field such as the digital hu
 
 ![](images/Collab1.png)
 
-We also made it known to each other that we would be connecting the tool to Johanna Drucker's work on interpretive graphics, allowing for a more cohesive presentation. With this done, we were able to work individually with confidence that the final product would make sense internally. Once our individual tasks were complete, we got together the day of the presentation to rehearse, and clear up any inconsistencies that may exist between our work. This also allowed us to help each other in providing our individual deliverables through GitHub, as this was a source of confusion for some. Through this approach to collaboration, we were able to create something of good quality that also helped us develop individually. 
+We also made it known to each other that we would be connecting the tool to Johanna Drucker's work on interpretive graphics, allowing for a more cohesive presentation. With this done, we were able to work individually with confidence that the final product would make sense internally. An example of this internal consistency is seen through a slide I made which connects to our theoretical discussion, seen below.
+
+![](images/Collab2.png)
+
+Once our individual tasks were complete, we got together the day of the presentation to rehearse, and clear up any inconsistencies that may exist between our work. This also allowed us to help each other in providing our individual deliverables through GitHub, as this was a source of confusion for some. Through this approach to collaboration, we were able to create something of good quality that also helped us develop individually. 
 
 My individual contribution to the project can be seen [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/a11ebcdbb8674180bf9bc7c22f58596be232d693)
 
