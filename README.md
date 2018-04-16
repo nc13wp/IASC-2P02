@@ -16,7 +16,7 @@ Media Archeology: Xybernaut Wearable Computers [read](reveal)
 
 ## Academic Blog | Graphical Displays in the Digital Humanities
 
-Graphical Displays in the Digital Humanities: Clarity vs Interpretation [continue reading](blog)
+Graphical Displays in the Digital Humanities: Clarity vs Interpretation [read](blog)
 
 
 ## Collaborative Project | PRISM
