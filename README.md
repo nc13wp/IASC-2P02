@@ -6,6 +6,8 @@ I am a third year Interactive Arts and Science student primarily focused on Medi
 
 ## Featured Project | Media Archeology: Xybernaut Wearable Computers
 
+1[](images/featuredimage.jpg)
+
 250 word abstract goes here
 
 250 words describing the changes made
